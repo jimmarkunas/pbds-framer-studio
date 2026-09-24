@@ -70,13 +70,34 @@
     "decoration-to-fill-space"
   ],
   "archetypes": [
-    {"id":"editorial-hero","file":"archetypes/editorial-hero.json"},
-    {"id":"orb-hero","file":"archetypes/orb-hero.json"},
-    {"id":"dual-orb-composition","file":"archetypes/dual-orb-composition.json"},
-    {"id":"structured-content-cards","file":"archetypes/structured-content-cards.json"},
-    {"id":"flow-process-rail","file":"archetypes/flow-process-rail.json"},
-    {"id":"embedded-app-media-frame","file":"archetypes/embedded-app-media-frame.json"},
-    {"id":"cta-takeaway-band","file":"archetypes/cta-takeaway-band.json"}
+    {
+      "id": "editorial-hero",
+      "file": "archetypes/editorial-hero.json"
+    },
+    {
+      "id": "orb-hero",
+      "file": "archetypes/orb-hero.json"
+    },
+    {
+      "id": "dual-orb-composition",
+      "file": "archetypes/dual-orb-composition.json"
+    },
+    {
+      "id": "structured-content-cards",
+      "file": "archetypes/structured-content-cards.json"
+    },
+    {
+      "id": "flow-process-rail",
+      "file": "archetypes/flow-process-rail.json"
+    },
+    {
+      "id": "embedded-app-media-frame",
+      "file": "archetypes/embedded-app-media-frame.json"
+    },
+    {
+      "id": "cta-takeaway-band",
+      "file": "archetypes/cta-takeaway-band.json"
+    }
   ],
   "responsivePrinciples": [
     "preserve-hierarchy",
